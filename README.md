@@ -6,6 +6,8 @@ A responsive HTML5 blog template designed for personal or professional blogging.
 
 ## 🌐 Live Preview
 
+[pr-2-min-width-stand-blog.vercel.app](https://pr-2-min-width-stand-blog.vercel.app/)
+
 
 ## 📂 Project Structure
 
@@ -66,6 +68,3 @@ stand-blog/
 ## 📸 Project Layout
  
 ![Desktop View](./image/full-template-551-stand-blog.jpg)
-
-
-

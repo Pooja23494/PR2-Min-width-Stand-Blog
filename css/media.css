@@ -93,6 +93,9 @@
         padding: 0 15px;
         margin: 0 auto;
     }
+    header .navbar ul li {
+    padding: 8px;
+}
 }
 
 /* xxl */
